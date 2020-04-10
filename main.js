@@ -1,5 +1,4 @@
 window.onload = function() {
-    document.body.appendChild(canvas);
     animate(next);
   };
 
